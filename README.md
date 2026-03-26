@@ -106,7 +106,7 @@ Implementação manual de conceitos matemáticos <br>
 Sistema completo (criptografia + descriptografia) <br>
 Projeto forte para portfólio na área de segurança
 
-# 👨‍💻 Autor
+# 👨‍💻 Autores
 
 Lucas Ramos <br>
 Cayo Gottwald <br>
