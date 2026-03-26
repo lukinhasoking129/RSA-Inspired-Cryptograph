@@ -109,4 +109,8 @@ Projeto forte para portfólio na área de segurança
 # 👨‍💻 Autor
 
 Lucas Ramos <br>
+Cayo Gottwald <br>
+Henrique Santos <br>
+Matheus Oliveira <br>
+Lucas Andrade <br>
 🎓 Estudante de Ciência da Computação
